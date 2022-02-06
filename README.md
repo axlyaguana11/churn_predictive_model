@@ -16,6 +16,15 @@ The model used is **Logistic Regression**. The process followed is:
 * Feature engineering. Normalization and encoding. See `1.1-axel-modeling.ipynb`.
 * Modeling. Logistic regression model. See `1.2-axel-modeling.ipynb`.
 
+## The data
+
+Raw data were too large and you won't see them on GitHub. For your convenience, an auxiliar directory was created on which
+cleaned and processed data is stored. See `data_sent_github`.
+
+On the other hand, if you launch the project on Deepnote, you will be able to see raw data.
+
+[<img src="https://deepnote.com/buttons/launch-in-deepnote.svg">](https://deepnote.com/project/churnpredictivemodel--y7FXq2oTeST3i0F8jbBOw/%2Fchurn_predictive_model%2FREADME.md)
+
 
 ## Project organization
 ```
